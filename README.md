@@ -1,6 +1,6 @@
 # Hey, I'm Shehzad
 
-**COO at [RigRex](https://rigrex.com) · Senior Backend Engineer**
+**Senior Backend Engineer**
 
 I'm a backend engineer who genuinely loves building things that work well under pressure. I run engineering at [RigRex](https://rigrex.com) where we build software for US and EU clients, and I also work as a full-time engineer at Uvicuo. Most of my code lives in private repos (client work), but I wanted this space to share a bit about who I am and how I think about problems.
 
